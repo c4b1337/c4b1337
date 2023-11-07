@@ -11,7 +11,7 @@ I'm a frontend/mobile developer from Ukraine, working at [@MAVERICK](https://git
 I'm interested in web development, games and mobile.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c4b1337&repo=Weather-App-Dart-V2&theme=dracula&bg_color=00000000&)](https://github.com/c4b1337/Weather-App-Dart-V2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c4b1337&repo=todo-app-database&theme=dracula&bg_color=00000000&)](https://github.com/c4b1337/todo-app-database)
 
 
 <details align="left">
@@ -20,7 +20,7 @@ I'm interested in web development, games and mobile.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,javascript,html,css,dart,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,flask,github,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=flutter,aiogram,bootstrap&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,androidstudio,discord,figma,bash,stackoverflow,vscode,firebase,postman,ultimate&perline=7" />
     <br>
