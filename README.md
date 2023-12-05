@@ -11,7 +11,7 @@ I'm a frontend/mobile developer from Ukraine, working at [@MAVERICK](https://git
 I'm interested in web development, games and mobile.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c4b1337&repo=todo-app-database&theme=dracula&bg_color=00000000&)](https://github.com/c4b1337/todo-app-database)
+no project
 
 
 <details align="left">
