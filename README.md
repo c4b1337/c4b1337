@@ -20,7 +20,7 @@ I'm interested in web development, games and mobile.
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,javascript,html,css,dart,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,aiogram,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=flutter,nodejs,bootstrap&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,androidstudio,discord,figma,bash,stackoverflow,vscode,firebase,postman,ultimate&perline=7" />
     <br>
