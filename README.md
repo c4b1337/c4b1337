@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm cab </h1>
+<h1 align="center">👋 Hello! I'm Dima </h1>
 
 <p align="center">
  <img width="600" src="/assets/github-snake.svg" alt="snake"/>
@@ -6,9 +6,8 @@
 
 ## About me
 
-I'm a frontend/mobile developer from Ukraine, working at [@MAVERICK](https://github.com/drunk-flutter).  
+I'm a frontend/mobile developer.
 
-I'm interested in web development, games and mobile.
 
 ## 📌Pinned
 no project
